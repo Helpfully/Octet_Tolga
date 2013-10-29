@@ -1,0 +1,17 @@
+﻿Build started 29-Oct-13 11:57:29.
+     1>Project "C:\Users\ZerenTolga\Documents\GitHub\Octet_Tolga\Octet\vc2010\layer1\layer1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\layer1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         layer1.vcxproj -> C:\Users\ZerenTolga\Documents\GitHub\Octet_Tolga\Octet\vc2010\layer1\Debug\layer1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\layer1.unsuccessfulbuild".
+         Touching "Debug\layer1.lastbuildstate".
+     1>Done Building Project "C:\Users\ZerenTolga\Documents\GitHub\Octet_Tolga\Octet\vc2010\layer1\layer1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
