@@ -1,5 +1,6 @@
 #include <string.h>
 
+
 namespace octet
 {
   enum 
